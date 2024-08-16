@@ -1,0 +1,48 @@
+.caja1{
+    background-color: rgb(191, 139, 240);
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(103, 11, 139);
+    position: relative;
+    
+}
+
+.caja2{
+    background-color: rgb(245, 132, 132);
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(185, 16, 4);
+    position: relative;
+    margin-left: 500px;
+    margin-top: -300px;
+}
+
+.caja3{
+    background-color: rgb(166, 225, 229);
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(10, 24, 146);
+    position: relative;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+
+.h1{
+    background-color: black;
+}
+
+.caja1:hover{
+    background-color: red;
+}
+.caja2:hover{
+    background-color: yellow;
+}
+.caja3:hover{
+    background-color: green;
+}
+
+body{
+    background-image: url();
+    background-attachment: fixed;
+    background-size: cover;
+}
